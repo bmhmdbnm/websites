@@ -1,0 +1,6 @@
+[INFO] Stryker 6.5.0 · build 650
+[INFO] Plan: Rootless VM (QEMU) → User Mode Linux · an engine counts as working only once the guest answers over SSH
+[STEP] Installing Rootless VM (QEMU)
+[INFO] Artifacts not bundled — downloading (~500 MB)
+[STEP] No bundled artifacts — fetching the engine from the release
+[STEP] GET https://github.com/zalexdev/strykerapp/releases/download/rootless-650/Image
